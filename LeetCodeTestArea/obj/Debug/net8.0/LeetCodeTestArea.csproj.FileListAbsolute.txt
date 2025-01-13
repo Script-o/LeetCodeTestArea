@@ -1,0 +1,14 @@
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\bin\Debug\net8.0\LeetCodeTestArea.exe
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\bin\Debug\net8.0\LeetCodeTestArea.deps.json
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\bin\Debug\net8.0\LeetCodeTestArea.runtimeconfig.json
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\bin\Debug\net8.0\LeetCodeTestArea.dll
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\bin\Debug\net8.0\LeetCodeTestArea.pdb
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.AssemblyInfoInputs.cache
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.AssemblyInfo.cs
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.csproj.CoreCompileInputs.cache
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.dll
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\refint\LeetCodeTestArea.dll
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.pdb
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.genruntimeconfig.cache
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\ref\LeetCodeTestArea.dll
