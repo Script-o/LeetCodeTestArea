@@ -12,3 +12,4 @@ D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\refint\LeetCodeTe
 D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.pdb
 D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.genruntimeconfig.cache
 D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\ref\LeetCodeTestArea.dll
+D:\PROJECTS\LeetCodeTestArea\LeetCodeTestArea\obj\Debug\net8.0\LeetCodeTestArea.sourcelink.json

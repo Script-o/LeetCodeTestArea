@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace LeetCodeTestArea
 {
@@ -32,14 +33,14 @@ namespace LeetCodeTestArea
             }
             return [99, 99];
         }
-        public static bool PalendromeCheck (int x)
+        public static bool PalendromeCheck(int x)
         {
             if (x < 0)
             {
                 return false;
             }
 
-            List<int> listOfSeperatedNumbers = new List<int> ();
+            List<int> listOfSeperatedNumbers = new List<int>();
             long currentMultiplier = 10;
             bool lastDigit = false;
             if (x < currentMultiplier)
@@ -59,7 +60,7 @@ namespace LeetCodeTestArea
                     {
                         break;
                     }
-                    if (x - currentMultiplier*10 < 0)
+                    if (x - currentMultiplier * 10 < 0)
                     {
                         lastDigit = true;
                     }
@@ -124,5 +125,45 @@ namespace LeetCodeTestArea
 
             return convertedNumber;
         }
+
+        //Take each word and break it down to individual charaters.
+        //Compare the first letter to the first character of every other word.
+        //If there is a match then do the same for the second character of any matches.
+        //End if no matches.
+        //Save the resulting matches in a collection to be compared for longest one.
+
+        //From our input array select each individual string
+        //On each string run through each individual character
+        //Convert the array to a list
+        //For each letter compare it to the current letter of each other string in the list
+        //If the current number of matches is less than the current max matches then remove that string from the list
+
+        public static string LongestCommonPrefix(string[] input)
+        {
+            int characterPosition = 0;
+            string matchedCharacters = "";
+            foreach (char currentLetter in input[0])
+            {
+                int numberOfMatches = 0;
+                foreach (string comparedString in input)
+                {
+                    if (comparedString.Length < characterPosition + 1)
+                    {
+                        break;
+                    }
+                    if (currentLetter == comparedString[characterPosition])
+                    {
+                        numberOfMatches++;
+                    }
+                    
+                    if (numberOfMatches == input.Length)
+                    {
+                        matchedCharacters += currentLetter;
+                        characterPosition++;
+                    }
+                }
+            }
+            return matchedCharacters;
+        }      
     }
 }

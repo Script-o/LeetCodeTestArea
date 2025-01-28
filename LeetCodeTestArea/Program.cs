@@ -13,8 +13,12 @@ namespace LeetCodeTestArea
             //var IsPalindrome = LeetCodeChecks.PalendromeCheck(1000000001);
             //Console.WriteLine(IsPalindrome);
 
-            int convertedNumber = LeetCodeChecks.RomanToInt("MCMXCIV");
-            Console.WriteLine($"The value of the Roman Numeral is - {convertedNumber}");
+            //int convertedNumber = LeetCodeChecks.RomanToInt("MCMXCIV");
+            //Console.WriteLine($"The value of the Roman Numeral is - {convertedNumber}");
+
+            string[] strs = ["ab", "a"];
+            string commonPrefix = LeetCodeChecks.LongestCommonPrefix(strs);
+            Console.WriteLine(commonPrefix);
         }
     }
 }

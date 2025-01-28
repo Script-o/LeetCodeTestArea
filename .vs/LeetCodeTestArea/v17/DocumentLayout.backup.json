@@ -18,16 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 225,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,7 +28,7 @@
               "RelativeDocumentMoniker": "LeetCodeTestArea\\Program.cs",
               "ToolTip": "D:\\PROJECTS\\LeetCodeTestArea\\LeetCodeTestArea\\Program.cs",
               "RelativeToolTip": "LeetCodeTestArea\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T19:40:09.933Z",
               "EditorCaption": ""
@@ -47,9 +39,9 @@
               "Title": "LeetCodeChecks.cs",
               "DocumentMoniker": "D:\\PROJECTS\\LeetCodeTestArea\\LeetCodeTestArea\\LeetCodeChecks.cs",
               "RelativeDocumentMoniker": "LeetCodeTestArea\\LeetCodeChecks.cs",
-              "ToolTip": "D:\\PROJECTS\\LeetCodeTestArea\\LeetCodeTestArea\\LeetCodeChecks.cs",
-              "RelativeToolTip": "LeetCodeTestArea\\LeetCodeChecks.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAuwHAAAABFAAAAAAAAAA==",
+              "ToolTip": "D:\\PROJECTS\\LeetCodeTestArea\\LeetCodeTestArea\\LeetCodeChecks.cs*",
+              "RelativeToolTip": "LeetCodeTestArea\\LeetCodeChecks.cs*",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwJUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T19:41:30.198Z",
               "EditorCaption": ""
